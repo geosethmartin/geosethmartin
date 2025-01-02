@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding.
 - 🌱 I’m currently learning SQL & Python
 - 💞️ I’m looking to collaborate on anything to grow and refine my skills.
-- 📫 Reach me at geosethmartin@gmail.com. I don't participate in major social media apps anymore. 
+- 📫 Reach me at sethmartin@duck.com. I don't participate in major social media apps anymore. 
 
 <!---
 geosethmartin/geosethmartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
